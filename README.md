@@ -1,5 +1,7 @@
-# The Donner Trail
+# The Donner Trail *WIP*
 CPSC-491: Capstone
+
+![Donner-Trail-main-menu](https://github.com/mechdragon23/Donner-Trail/blob/main/images/donner%20trail%20main%20menu.png)
   
 ## Project Overview
 This project is spinoff of the Oregon Trail game
@@ -28,11 +30,13 @@ pip install -r requirements.txt
 ```
 python game.py
 ```
-Click ```Play``` to start the game
+Click ```Play``` to enter party creation
 
-```Main menu```
+Once finished, click ```Done``` to start the game
 
-![Donner-Trail-main-menu](https://github.com/mechdragon23/space-invaders/blob/main/images/Screenshot%202023-07-27%20165339.png)
+```Main Game Window```
+
+![Donner-Trail-main-game-window](https://github.com/mechdragon23/Donner-Trail/blob/main/images/Screenshot%202023-07-27%20173801.png)
 
 
 
